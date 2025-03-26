@@ -129,10 +129,6 @@ The Book Creator generates both text-adjacent layouts (shown above) and text-ove
 - **Image Generation Errors**: Check that your DALL-E API access is enabled in your OpenAI account
 - **Output Directory**: Make sure the configured output directory is writable
 
-## License
-
-[Specify license information]
-
 ## Acknowledgements
 
 - This project uses [smolagents](https://github.com/smol-ai/smolagents) for agent coordination
